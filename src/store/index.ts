@@ -21,7 +21,7 @@ const store = createStore({
 
     return {
       isFetching: false,
-      token: accessTokenCache || "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",
+      token: accessTokenCache || "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",
       repos: repos,
       chartMode: chartMode,
     };
